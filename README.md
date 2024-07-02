@@ -12,7 +12,7 @@
 
 Hi there 👋
 
-Hi, I'm Farzana Mohsin, a Customer Support Specialist at UserTesting.
+Hi, I'm Farzana Mohsin, a Customer Support Specialist at UserTesting. Im located on the East Coast.
 
 💬 Ask me about anything, I am happy to help
 
