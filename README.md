@@ -27,7 +27,7 @@ Hi, I'm Farzana Mohsin, a Customer Support Specialist at UserTesting. Im located
 
 <img width="40" alt="Screenshot 2024-07-01 at 10 37 06 PM" src="https://github.com/farzana-mohsin/farzana-mohsin/assets/115650716/78bbd0e0-6d87-45f8-ac20-22eb9526160c">
 <img width="40" alt="Screenshot 2024-07-01 at 10 37 16 PM" src="https://github.com/farzana-mohsin/farzana-mohsin/assets/115650716/7a32b2da-f7bc-46ea-91cd-c75e01b65ad6">
-<img width="40" height="80" alt="Screenshot 2024-07-02 at 8 19 42 AM" src="https://github.com/farzana-mohsin/farzana-mohsin/assets/115650716/ef2605e3-d54b-4db6-86a0-a242f09a5532">
+<img width="40" height="40" alt="Screenshot 2024-07-02 at 8 19 42 AM" src="https://github.com/farzana-mohsin/farzana-mohsin/assets/115650716/ef2605e3-d54b-4db6-86a0-a242f09a5532">
 
 
 
