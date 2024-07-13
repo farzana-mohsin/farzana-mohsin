@@ -15,7 +15,7 @@
 
 Hi there 👋
 
-Hi, I'm Farzana Mohsin, a Customer Support Specialist at UserTesting. I'm located on the East Coast.
+Hi, I'm Farzana Mohsin, a Technical Support Specialist at UserTesting. I'm located on the East Coast.
 
 💬 Ask me about anything, I am happy to help
 
